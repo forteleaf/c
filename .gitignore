@@ -5,3 +5,4 @@ Debug/
 *.user
 *.sln
 *.vcxproj
+.DS_Store
