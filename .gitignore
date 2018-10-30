@@ -1,8 +1,8 @@
 Debug/
+.DS_Store
 .vs/
 
 *.filters
 *.user
 *.sln
 *.vcxproj
-.DS_Store
