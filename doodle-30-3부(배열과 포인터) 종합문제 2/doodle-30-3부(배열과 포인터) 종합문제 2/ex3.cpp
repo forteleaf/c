@@ -6,6 +6,8 @@ int main() {
 	};
 
 	int(*ptr)[4] = arr;
+	int a;
+	int *ptr_a = &a;
 
 	for (int i = 0; i < 3; i++) {
 		for (int j = 0; j < 4; j++) {

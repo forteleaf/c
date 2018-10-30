@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+
+// 2개의 매개변수의 합을 반환
+
+int plus(int a, int b) {
+	return a + b;
+}
+int main() {
+	int sum = plus(3, 5);
+	printf("%d\n", sum);
+
+	
+}
