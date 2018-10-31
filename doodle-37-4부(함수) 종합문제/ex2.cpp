@@ -18,4 +18,4 @@ int main() {
 
 void useItem(int itemNum) {
 	userCnt[itemNum]++;
-}
+}                                   
